@@ -148,5 +148,26 @@ a{
     background-color: lightgrey;
 }
 
+@media screen and (max-width: 750px){
+    
+    #projects, #myStory, .nav{
+        display: block;
+        width: 100%;
+    }
+    .nav p{
+        text-align: center;
+    }
+    .project{
+        width: 80%;
+        margin: 1em auto;
+    }
+    #myStory{
+        text-align: center;
+    }
+    div#img{
+        margin: auto;
+    }
+
+}
 
 
