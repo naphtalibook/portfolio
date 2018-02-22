@@ -168,6 +168,19 @@ a{
         margin: auto;
     }
 
+    .project img{
+        width: 40%;
+        float: none;
+        display: block;
+        margin: auto;
+
+    }
+   .project p {
+       width:100%;
+       display: block;
+   }
+
 }
+
 
 
